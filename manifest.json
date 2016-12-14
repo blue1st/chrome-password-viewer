@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"name": "Password View",
 	"description": "Chrome Extension 習作: formのpasswordなinputをtextに改変する",
-	"version": "0.6",
+	"version": "0.7",
 	"browser_action": {
 		"default_icon": "icon.png",
 		"default_title": "Password View"
